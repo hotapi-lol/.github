@@ -2,7 +2,7 @@
 	<h3>
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="./banner-trans.png">
-			<source media="(prefers-color-scheme: light)" srcset="./banner-trans-w.png">
+			<source media="(prefers-color-scheme: light)" srcset="./banner-trans.png">
 			<img alt="logo" src="./banner-trans.png" width="300px">
 		</picture>
 		<br>
